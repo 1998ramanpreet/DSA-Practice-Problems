@@ -28,7 +28,7 @@ Constraints:
     -104 <= matrix[i][j], target <= 104
 */
 /************************************Solution*********************************/
-// Time Complexity : O(log(row*col))
+// Time Complexity : O(log(m*n))
 
 class Solution {
 public:
